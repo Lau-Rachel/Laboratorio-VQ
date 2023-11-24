@@ -3,22 +3,7 @@ guid: 5e75e9b26047e0f4e971045b2e3ee8f9
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Color_Atlas
-    second: {fileID: 2100000, guid: 79e07cc12d05d434f88e1d140502f2d1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Liquido Azul
-    second: {fileID: 2100000, guid: ba119f346ed500d4e981e22ede4374de, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Vidrio
-    second: {fileID: 2100000, guid: 0704849f85ca8ed49b538da77d2f953a, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
